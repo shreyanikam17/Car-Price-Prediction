@@ -9,4 +9,4 @@ requirements.txt → Required libraries
 
 ## How to Run: 
 1. Install requirements
-2. 2. Run app.py
+2.  Run app.py
